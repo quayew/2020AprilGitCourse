@@ -1,3 +1,5 @@
+TESTING GIT STATUS command
+
 class notes
 -----------
 - my notes from watching the videos
